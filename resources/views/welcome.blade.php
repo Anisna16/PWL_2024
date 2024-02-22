@@ -3,7 +3,6 @@
         <title>PWL 2024</title>
     </head>
     <body>
-        <h2>Premrograman Web Lanjut 2024</h2>
-        <h3>Semangat Belajar Laravel</h3>
+        <h2>Selamat Datang di Premrograman Web Lanjut 2024</h2>
     </body>
     </html>
